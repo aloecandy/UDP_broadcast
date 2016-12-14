@@ -1,0 +1,18 @@
+﻿<UserControl x:Class="ChatClient.Client"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Height="295.624" Width="515.627">
+    <Grid Margin="10,10,0,0">
+        <TextBox x:Name="txtCont" Margin="130.652,28.711,36.644,81.28" AcceptsReturn="True" AcceptsTab="True" TextChanged="txtCont_TextChanged" IsReadOnly="True"/>
+        <TextBox x:Name="txtMsg" Margin="130.652,0,95.644,59" VerticalAlignment="Bottom" Height="22" TextWrapping="Wrap" KeyDown="txtMsg_KeyDown"/>
+        <Button x:Name="btSend" HorizontalAlignment="Right" Margin="0,0,36.644,59" VerticalAlignment="Bottom" Width="59" Height="22" Content="Button"/>
+        <Button x:Name="btConnect" Content="Connect" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="315.652,6,0,0" Click="btConnect_Click" Height="23"/>
+        <TextBox x:Name="ip" HorizontalAlignment="Left" Height="23" Margin="130.652,6,0,0" TextWrapping="Wrap" Text="192.168.0." VerticalAlignment="Top" Width="126.979"/>
+        <TextBox x:Name="port" HorizontalAlignment="Left" Height="23" Margin="6.464,6,0,0" TextWrapping="Wrap" Text="6000" VerticalAlignment="Top" Width="58.021"/>
+        <TextBox x:Name="txtScanned" HorizontalAlignment="Left" Height="197.307" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="124.5" Margin="6.152,29,0,0"/>
+        <Button x:Name="btScan" Content="Scan" HorizontalAlignment="Left" VerticalAlignment="Top" Width="66.5" Margin="64.485,6,0,0" Click="btScan_Click" Height="23"/>
+        <Button x:Name="btDisconnect" Content="Disconnect" HorizontalAlignment="Left" Width="75" Margin="390.652,0,0,256.624" Height="23" VerticalAlignment="Bottom" Click="btDisconnect_Click"/>
+        <CheckBox x:Name="chkATmode" Content="AT" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="4.757,231.525,0,0"/>
+
+    </Grid>
+</UserControl>

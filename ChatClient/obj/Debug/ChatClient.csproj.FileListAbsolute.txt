@@ -1,0 +1,30 @@
+C:\Users\김지훈\Documents\Visual Studio 2008\Projects\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\김지훈\Documents\Visual Studio 2008\Projects\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\김지훈\Documents\Visual Studio 2008\Projects\ChatClient\ChatClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\김지훈\Documents\Visual Studio 2008\Projects\ChatClient\ChatClient\obj\Debug\Client.baml
+C:\Users\김지훈\Documents\Visual Studio 2008\Projects\ChatClient\ChatClient\obj\Debug\Window1.baml
+C:\Users\김지훈\Documents\Visual Studio 2008\Projects\ChatClient\ChatClient\obj\Debug\Client.g.cs
+C:\Users\김지훈\Documents\Visual Studio 2008\Projects\ChatClient\ChatClient\obj\Debug\Window1.g.cs
+C:\Users\김지훈\Documents\Visual Studio 2008\Projects\ChatClient\ChatClient\obj\Debug\App.g.cs
+C:\Users\김지훈\Documents\Visual Studio 2008\Projects\ChatClient\ChatClient\obj\Debug\ChatClient_MarkupCompile.cache
+C:\Users\김지훈\Documents\Visual Studio 2008\Projects\ChatClient\ChatClient\obj\Debug\ChatClient.g.resources
+C:\Users\김지훈\Documents\Visual Studio 2008\Projects\ChatClient\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+C:\Users\김지훈\Documents\Visual Studio 2008\Projects\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.Cache
+C:\Users\김지훈\Documents\Visual Studio 2008\Projects\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\김지훈\Documents\Visual Studio 2008\Projects\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
+C:\Users\aloec\Downloads\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\aloec\Downloads\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
+C:\Users\aloec\Downloads\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\aloec\Downloads\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\aloec\Downloads\ChatClient\ChatClient\obj\Debug\Client.baml
+C:\Users\aloec\Downloads\ChatClient\ChatClient\obj\Debug\Window1.baml
+C:\Users\aloec\Downloads\ChatClient\ChatClient\obj\Debug\Client.g.cs
+C:\Users\aloec\Downloads\ChatClient\ChatClient\obj\Debug\Window1.g.cs
+C:\Users\aloec\Downloads\ChatClient\ChatClient\obj\Debug\App.g.cs
+C:\Users\aloec\Downloads\ChatClient\ChatClient\obj\Debug\ChatClient_MarkupCompile.cache
+C:\Users\aloec\Downloads\ChatClient\ChatClient\obj\Debug\ChatClient.g.resources
+C:\Users\aloec\Downloads\ChatClient\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+C:\Users\aloec\Downloads\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.Cache
+C:\Users\aloec\Downloads\ChatClient\ChatClient\obj\Debug\ChatClient.csprojResolveAssemblyReference.cache
+C:\Users\aloec\Documents\GitHub\UDP_broadcast\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\aloec\Documents\GitHub\UDP_broadcast\ChatClient\obj\Debug\ChatClient.pdb
